@@ -1,0 +1,15 @@
+***Package java.util.function
+***has many functional interfaces out of the box.
+
+some of them:
+
+@FunctionalInterface
+public interface Predicate<T> {
+    boolean test(T var1);
+}
+
+@FunctionalInterface
+public interface Consumer<T> {
+    //ONE OBJECT
+    void accept(T var1);
+}

@@ -1,0 +1,11 @@
+*enables functional programming
+
+public void hello(String str){
+    System.out.println("Hello world " + str);
+}
+
+equals
+
+((String str) -> System.out.println("Hello world " + str))
+    or
+((String str) -> { return System.out.println("Hello world " + str) })
