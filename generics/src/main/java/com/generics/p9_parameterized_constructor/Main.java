@@ -17,6 +17,5 @@ public class Main {
         //You may also not set the parameterized types in declaration but it is recommended.
         SomeService someService3 = new SomeService<Integer>(1, 2);
 
-        //10.videoda kaldın
     }
 }
