@@ -47,7 +47,6 @@ public class Main {
             threads.add(primeNumThread);
             primeNumThread.start();
 
-            //Continue from part 18
         }
     }
 
@@ -66,4 +65,6 @@ public class Main {
             }
         });
     }
+
+
 }

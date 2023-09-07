@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a57559-9e62-4e6e-910c-3704112ec6ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../threads/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p10_thread_states/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p10_thread_states/PrimeNumberUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p10_thread_states/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p10_thread_states/state-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p13_thread_join/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p13_thread_join/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p13_thread_join/PrimeNumberUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p15_thread_interruption/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p15_thread_interruption/PrimeNumberUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p5_intro/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p6_code_intro/CodeImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p6_code_intro/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p6_code_intro/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p7_thread_class/CustomThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p7_thread_class/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p8_primenumber_exercise/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p8_primenumber_exercise/PrimeNumberUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p9_daemon_threads/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/out/production/threads/com/threads/p9_daemon_threads/PrimeNumberUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p10_thread_states/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p10_thread_states/PrimeNumberUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p10_thread_states/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p10_thread_states/state-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p13_thread_join/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p13_thread_join/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p13_thread_join/PrimeNumberUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p15_thread_interruption/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p15_thread_interruption/PrimeNumberUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p16_parallelism_concurrency/parallelism-concurrency.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p16_parallelism_concurrency/syncronization.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p5_intro/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p6_code_intro/CodeImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p6_code_intro/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p7_thread_class/CustomThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p7_thread_class/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p8_primenumber_exercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p8_primenumber_exercise/PrimeNumberUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p9_daemon_threads/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/src/com/threads/p9_daemon_threads/PrimeNumberUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads/threads.iml" afterDir="false" />
-    </list>
+    <list default="true" id="40a57559-9e62-4e6e-910c-3704112ec6ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,6 +148,7 @@
       <workItem from="1693945837841" duration="5655000" />
       <workItem from="1693997935331" duration="5252000" />
       <workItem from="1694049113149" duration="148000" />
+      <workItem from="1694049342293" duration="437000" />
     </task>
     <servers />
   </component>
