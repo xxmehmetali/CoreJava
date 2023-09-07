@@ -1,0 +1,5 @@
+When a Java application starts one process will be created.
+Process is the living version of a program. (Program is not executed but process is and loaded into ram).
+Process can contain multiple thread. It has some threads running background like GarbageCollector.
+But it is single threaded by default for programmer. Programmer can create multiple threads optionally.
+Default one is the Application Thread where the main method stands.
