@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a57559-9e62-4e6e-910c-3704112ec6ac" name="Changes" comment="" />
+    <list default="true" id="40a57559-9e62-4e6e-910c-3704112ec6ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../threads/src/com/threads/p20_critical_section/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../threads/src/com/threads/p20_critical_section/Counter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +151,7 @@
       <workItem from="1693997935331" duration="5252000" />
       <workItem from="1694049113149" duration="148000" />
       <workItem from="1694049342293" duration="437000" />
+      <workItem from="1694212930956" duration="185000" />
     </task>
     <servers />
   </component>

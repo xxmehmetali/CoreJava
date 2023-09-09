@@ -1,0 +1,7 @@
+Types of executors:
+    FixedThreadPoolExecutor         => Fixed number of threads. If all threads are busy, tasks are queued.
+    SingleThreadExecutor            => Single thread. If thread is busy, tasks are queued.
+    CachedThreadPoolExecutor        => No limit. Creates new thread if needed.
+    ScheduledThreadPoolExecutor     => Timing tasks. Run after a delay or periodically.
+    WorkStealingPoolExecutor
+

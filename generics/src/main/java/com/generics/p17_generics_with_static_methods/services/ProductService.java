@@ -16,6 +16,7 @@ public class ProductService<E extends Product> {
         note that static method's E type is not related with the E beside of the class. These 2 E's are completely different.
         Syntax is like this : access_modifier static YOUR_WILD_CARD return_type method_name(params){body}
         wildcard is between static and return type.
+        in parameters of this method, <E extends CustomProduct> will be used to get generic parameters.
      * */
     public static <E extends CustomProduct> void operationOnExternalProduct(E product){
         System.out.println(product.getCustomProductField());

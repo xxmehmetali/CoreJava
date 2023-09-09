@@ -1,4 +1,4 @@
-package com.threads.p8_primenumber_exercise;
+package com.threads.p29_executor_service_intro;
 
 public class PrimeNumberUtil {
     public static int findNthPrimeNumber(int nth){

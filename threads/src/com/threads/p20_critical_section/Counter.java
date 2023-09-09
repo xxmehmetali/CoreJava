@@ -38,4 +38,12 @@ public class Counter implements Runnable {
     public synchronized void someMethod(){
 
     }
+
+    public void someMethod2(){
+        //structured lock
+        synchronized (this){
+
+        }
+        //there may be some code here also
+    }
 }
