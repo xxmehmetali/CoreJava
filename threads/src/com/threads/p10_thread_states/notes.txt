@@ -1,0 +1,9 @@
+States:
+    New
+    Runnable
+    Blocked
+    Waiting
+    TimedWaiting        ( Thread.sleep() )
+    Terminated
+
+Note that Runnable is the state from JVM. It makes the thread's state Runnable so the OS can see that this thread is runnable. JVM only marks the thread and OS is responsible from running the thread.
