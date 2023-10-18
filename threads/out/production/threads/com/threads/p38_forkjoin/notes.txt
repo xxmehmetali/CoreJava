@@ -1,0 +1,19 @@
+splitting the problem into many pieces and solving each piece separately.
+
+        TASK            main task
+    TASK    TASK        sub tasks
+TASK    TASK    TASK    sub tasks's sub tasks
+
+The main task is split into sub tasks, which are split into sub tasks, and so on.
+The sub tasks are solved in parallel, and the results are combined to give the result of the main task.
+
+** ForkJoinPool is a special thread pool for executing ForkJoinTask.
+** ForkJoinTask is an abstract class that represents a task that can be split into smaller tasks and executed in parallel.
+    implementations:
+        -RecursiveAction: A task that does not return a value.
+        -RecursiveTask: A task that returns a value.
+steps:
+    1. Create a ForkJoinTask subclass.
+    2. Get an instance of ForkJoinPool.
+    3. Submit an instance of ForkJoinTask to ForkJoinPool.
+

@@ -35,6 +35,7 @@ public class Counter implements Runnable {
 
     //this use is also valid. It makes whole method synchronized.
     //structured lock
+    //When you use synchronized keyword, it reads value from main memory and force write to main memory (RAM). It doesnt use cache (L1-L2-L3).
     public synchronized void someMethod(){
 
     }
