@@ -19,7 +19,5 @@ public class Main {
         t4.start();
         t5.start();
 
-        //continue from 23th video
-
     }
 }

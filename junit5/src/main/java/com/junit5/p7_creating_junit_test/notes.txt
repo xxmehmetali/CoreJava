@@ -1,0 +1,13 @@
+
+assertEquals(..)
+assertArrayEquals(..)
+assertIterableEquals(..)
+assertFalse(..)
+assertTrue(..)
+assertNotEquals(..)
+
+assertNull(..)
+
+fail()
+fail(String message)
+fail(...)

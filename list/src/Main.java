@@ -40,6 +40,8 @@ public class Main {
         langs.stream().forEach(lang -> System.out.println(lang));
         // v2
         langs.forEach(lang-> System.out.println(lang));
+        // v3
+        langs.forEach(System.out::println);
 
 
 

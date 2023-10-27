@@ -1,0 +1,10 @@
+--Junit 4 and Junit5 are completely different.
+--Junit 4 was a monolitic framework, while Junit 5 is a modular framework.
+That means Junit4 was a single jar file, while Junit5 is a set of jar files.
+So on microservice environment, you can use only the jars you need. That means boot time is faster.
+
+--Junit 5 has platform and on top of it there are 2 modules - Junit Jupiter and Junit Vintage (older version of junit tests when you run).
+--Jupiter is  the new programming model and Vintage is for backward compatibility. That's why Junit5 and Junit4 are different completely. Junit5 supports Junit4 tests as well.
+
+--Developer will not get in touch with platform directly, instead he will use Jupiter API to write tests.
+

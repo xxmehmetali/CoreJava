@@ -38,6 +38,10 @@ public class Main {
             // You can provide it with your own ExecutorService. For example:
             // CompletableFuture.supplyAsync(() -> PrimeNumberUtil.findNthPrimeNumber(num), executorService);
 
+            //see here
+            //https://www.youtube.com/watch?v=mTGdtC9f4EU&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&ab_channel=JakobJenkov
+            //https://www.youtube.com/watch?v=6Oo-9Can3H8&list=PLhfHPmPYPPRk6yMrcbfafFGSbE2EPK_A6&index=5&ab_channel=DefogTech
+            //https://www.youtube.com/watch?v=Fnvvwxho3m8&list=PLEocw3gLFc8VYPSFuQfTbqsK-0q2wDCoR&index=8&ab_channel=LaurSpilca
 
         }
 
