@@ -1,0 +1,25 @@
+
+]
+java:S11929"GDefine a constant instead of duplicating this literal "turkey" 3 times.(«ş–ş
+M
+java:S1153µ"1Directly append the argument of String.valueOf().(¨äÀ¨ùÿÿÿÿ
+M
+java:S1153µ"1Directly append the argument of String.valueOf().(¨äÀ¨ùÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¹©ÿÿÿÿÿ8¥¦Ê·1
+V	java:S125"<This block of commented-out lines of code should be removed.(³Ç“¹şÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(°¥îŞ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(ÑÖ£ï
+m
+java:S6204E"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ã–¾µûÿÿÿÿ
+m
+java:S6204I"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ôƒÉ­øÿÿÿÿ
+h
+java:S6204_"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+Q	java:S125c"<This block of commented-out lines of code should be removed.(Ãì´Ô
+_
+java:S1612”"CReplace this lambda with method reference 'Person::getNationality'.(¶‘””ûÿÿÿÿ
+Q	java:S125–"<This block of commented-out lines of code should be removed.(„¬ü
+Z
+java:S1612­"<Replace this lambda with method reference 'String::valueOf'.(ç–­8£Ùõ’·1
+j
+java:S1602´"SRemove useless curly braces around statement and then remove useless return keyword(…›€¡

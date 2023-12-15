@@ -1,0 +1,57 @@
+
+R
+java:S3740‘"/Provide the parametrized type for this generic.(à¶‡ßÿÿÿÿÿ8µ™ù”¸1
+M
+java:S3740’"/Provide the parametrized type for this generic.(¨×š’8µ™ù”¸1
+R
+java:S3740–"/Provide the parametrized type for this generic.(ûÔ¾©úÿÿÿÿ8¶™ù”¸1
+R
+java:S3740™"/Provide the parametrized type for this generic.(„çÂÆÿÿÿÿÿ8¶™ù”¸1
+j
+java:S1192â"GDefine a constant instead of duplicating this literal "TÃ¼lay" 3 times.(¶™÷¬øÿÿÿÿ8·™ù”¸1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¼¢‰8»™ù”¸1
+t
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ªçŸŠøÿÿÿÿ8ç™ù”¸1
+L	java:S106""+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8ç™ù”¸1
+G	java:S106-"+Replace this use of System.out by a logger.(Š¢óö8è™ù”¸1
+G	java:S1064"+Replace this use of System.out by a logger.(ÎòÁÈ8ê™ù”¸1
+L	java:S1065"+Replace this use of System.out by a logger.(ÀÑæÛýÿÿÿÿ8ê™ù”¸1
+X	java:S1259"<This block of commented-out lines of code should be removed.(÷±û´8ë™ù”¸1
+G	java:S106C"+Replace this use of System.out by a logger.(ÆÀûý8ì™ù”¸1
+G	java:S106X"+Replace this use of System.out by a logger.(ÆÀûý8î™ù”¸1
+G	java:S106e"+Replace this use of System.out by a logger.(êÀ®8ð™ù”¸1
+_
+java:S1612t"=Replace this lambda with method reference 'Number::intValue'.(¯ä…øÿÿÿÿ8ô™ù”¸1
+G	java:S106w"+Replace this use of System.out by a logger.(óÇŽ8ô™ù”¸1
+L	java:S106x"+Replace this use of System.out by a logger.(Ë¸íÍúÿÿÿÿ8ô™ù”¸1
+G	java:S106~"+Replace this use of System.out by a logger.(ÆÀûý8õ™ù”¸1
+H	java:S106‡"+Replace this use of System.out by a logger.(ÆÀûý8÷™ù”¸1
+H	java:S106“"+Replace this use of System.out by a logger.(ÆÀûý8ù™ù”¸1
+H	java:S106¥"+Replace this use of System.out by a logger.(ÆÀûý8û™ù”¸1
+M	java:S106°"+Replace this use of System.out by a logger.(›þ³±ûÿÿÿÿ8ý™ù”¸1
+p
+java:S6204¼"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8þ™ù”¸1
+M	java:S106¾"+Replace this use of System.out by a logger.(¬„ô‹ýÿÿÿÿ8ÿ™ù”¸1
+M	java:S106Ã"+Replace this use of System.out by a logger.(´ÖðÇúÿÿÿÿ8€šù”¸1
+p
+java:S6204Æ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8€šù”¸1
+H	java:S106Ç"+Replace this use of System.out by a logger.(Ÿó™Ï8šù”¸1
+G	java:S106Ì"+Replace this use of System.out by a logger.(Û¿ý|8‚šù”¸1
+M	java:S106Ý"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8„šù”¸1
+H	java:S106á"+Replace this use of System.out by a logger.(°œÞþ8„šù”¸1
+H	java:S106è"+Replace this use of System.out by a logger.(ùüœÁ8†šù”¸1
+H	java:S106é"+Replace this use of System.out by a logger.(ûïæ—8†šù”¸1
+^	java:S125ð"<This block of commented-out lines of code should be removed.(î–èëÿÿÿÿÿ8†šù”¸1
+Y	java:S125ø"<This block of commented-out lines of code should be removed.(˜Ñ‡ý8‡šù”¸1
+n
+java:S1854™"KRemove this useless assignment to local variable "streamFromStreamBuilder".(„çÂÆÿÿÿÿÿ8ˆšù”¸1
+g
+java:S1854–"DRemove this useless assignment to local variable "streamFromArrays".(ûÔ¾©úÿÿÿÿ8ˆšù”¸1
+f
+java:S1854’"HRemove this useless assignment to local variable "streamFromCollection".(¨×š’8ˆšù”¸1
+W
+java:S1481’"9Remove this unused "streamFromCollection" local variable.(¨×š’8‰šù”¸1
+X
+java:S1481–"5Remove this unused "streamFromArrays" local variable.(ûÔ¾©úÿÿÿÿ8‰šù”¸1
+_
+java:S1481™"<Remove this unused "streamFromStreamBuilder" local variable.(„çÂÆÿÿÿÿÿ8‰šù”¸1

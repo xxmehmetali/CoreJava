@@ -1,0 +1,32 @@
+source :    https://www.youtube.com/watch?v=1OpAgZvYXLQ&ab_channel=Devoxx
+            https://www.youtube.com/watch?v=pGroX3gmeP8&ab_channel=Devoxx
+Intermediate operations:
+intermediate operations will not run until any terminal operation is called. So no cost is incurred until a terminal operation is called.
+
+    filter(Predicate): Filters elements based on a given predicate.
+    map(Function): Transforms elements using a given function.
+    flatMap(Function): Transforms elements into Streams and flattens the resulting Streams.
+    distinct(): Returns a Stream with unique elements.
+    sorted(Comparator): Sorts the elements based on a given comparator.
+    peek(Consumer): Performs an action on each element without modifying the Stream, useful for debugging.
+
+Terminal operations:
+output is produced only when a terminal operation is called.
+
+    forEach(Consumer): Performs an action on each element.
+    toArray(): Collects elements into an array.
+    reduce(BinaryOperator): Reduces the elements to a single value.
+    collect(Collector): Collects elements into a mutable container.
+    min(Comparator), max(Comparator): Finds the minimum or maximum element.
+    count(): Counts the elements.
+    anyMatch(Predicate), allMatch(Predicate), noneMatch(Predicate): Tests whether the predicates match the elements.
+    findFirst(), findAny(): Retrieves the first or any element that satisfies a given condition.
+
+InvokeDynamic özelliğini araştır. javap komutu ile class inceleyebilirsin.
+opcodes : invokespecial, ivokeinterface, invokevirtual, invokestatic, invokeDynamic
+Bytecode optimization bak : https://proandroiddev.com/optimize-java-byte-code-d37d9938729e
+
+
+groupingBy and mapping      ==> (Function, Collector)
+collectingAndThen           ==> (Collector, Function)
+
