@@ -1,0 +1,5 @@
+
+source : https://www.youtube.com/watch?v=ePJrt5-G8eM&ab_channel=JavaTechie
+
+*It may be a good choice to make getters return optional of a model class.
+

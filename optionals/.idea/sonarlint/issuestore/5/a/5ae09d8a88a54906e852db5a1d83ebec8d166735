@@ -1,0 +1,28 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥›Ä8ò·á·1
+Q
+java:S3740>"/Provide the parametrized type for this generic.(¨§øÿÿÿÿ8ó·á·1
+Q
+java:S3740@"/Provide the parametrized type for this generic.(ºÃ±Ùÿÿÿÿÿ8ó·á·1
+Q
+java:S3740B"/Provide the parametrized type for this generic.(»˜ñşÿÿÿÿ8ó·á·1
+L	java:S106"+Replace this use of System.out by a logger.(é¹ıúÿÿÿÿ8ˆ¸á·1
+F	java:S106&"+Replace this use of System.out by a logger.(£™ó8Œ¸á·1
+L	java:S106("+Replace this use of System.out by a logger.(ãÔƒ®úÿÿÿÿ8Œ¸á·1
+:
+java:S2119."Save and re-use this "Random".(¼İÅf8¸á·1
+G	java:S1068"+Replace this use of System.out by a logger.(ÒÓæ¥8¸á·1
+X
+java:S1854B"6Remove this useless assignment to local variable "o3".(»˜ñşÿÿÿÿ8¸á·1
+X
+java:S1854@"6Remove this useless assignment to local variable "o2".(ºÃ±Ùÿÿÿÿÿ8¸á·1
+X
+java:S1854>"6Remove this useless assignment to local variable "o1".(¨§øÿÿÿÿ8¸á·1
+I
+java:S1481>"'Remove this unused "o1" local variable.(¨§øÿÿÿÿ8¸á·1
+I
+java:S1481@"'Remove this unused "o2" local variable.(ºÃ±Ùÿÿÿÿÿ8¸á·1
+I
+java:S1481B"'Remove this unused "o3" local variable.(»˜ñşÿÿÿÿ8‘¸á·1
+K
+java:S1068".Remove this unused "NAME_PETER" private field.(½š8‘¸á·1
